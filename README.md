@@ -2,7 +2,7 @@ This repository contains the datasets supporting the findings of the study
 "Fractal morphology of mineral dendrites reveals ore-forming conditions". 
 
 --------------------------------------------------------------------------------
-FILE INVENTORY AND DESCRIPTIONS
+FILE DESCRIPTIONS
 --------------------------------------------------------------------------------
 The files in this repository correspond directly to the Figures and 
 Supplementary Materials in the submitted manuscript.
