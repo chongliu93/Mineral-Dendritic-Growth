@@ -7,7 +7,7 @@ FILE INVENTORY AND DESCRIPTIONS
 The files in this repository correspond directly to the Figures and 
 Supplementary Materials in the submitted manuscript.
 
-[STATISTICAL AND ANALYTICAL DATA]
+[SUPPLEMENTARY DATA]
 
 1. Fig. 2a Statistical data of mineral density grayscale values for three minerals..xlsx
    - Content: Statistical analysis of grayscale values for three distinct minerals.
