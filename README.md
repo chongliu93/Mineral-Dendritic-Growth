@@ -64,4 +64,3 @@ Supplementary Materials in the submitted manuscript.
     - Content: 3D rotation video of Dendrite 4.
     - Format: AVI.
     - Usage: Supplementary Video 2.
-    - 
