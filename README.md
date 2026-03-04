@@ -1,12 +1,8 @@
-======================================================================================
-DATASET README: Fractal morphology of mineral dendrites reveals ore-forming conditions
-======================================================================================
-
 This repository contains the datasets supporting the findings of the study 
 "Fractal morphology of mineral dendrites reveals ore-forming conditions". 
 
 --------------------------------------------------------------------------------
-2. FILE INVENTORY AND DESCRIPTIONS
+FILE INVENTORY AND DESCRIPTIONS
 --------------------------------------------------------------------------------
 The files in this repository correspond directly to the Figures and 
 Supplementary Materials in the submitted manuscript.
@@ -69,6 +65,3 @@ Supplementary Materials in the submitted manuscript.
     - Format: AVI.
     - Usage: Supplementary Video 2.
     - 
-================================================================================
-END OF README
-================================================================================
