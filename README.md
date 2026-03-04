@@ -5,7 +5,7 @@ This repository contains the datasets supporting the following work:
 
 ## Supplementary Information
 - **Supplementary data**
-   1. Fig. 2a Statistical data of mineral density grayscale values for three minerals.xlsx
+   - Fig. 2a Statistical data of mineral density grayscale values for three minerals.xlsx
       - Content: Statistical analysis of grayscale values for three distinct minerals.
       - Usage: Supports Figure 2a (Mineral density comparison).
    
